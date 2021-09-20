@@ -15,7 +15,7 @@ repositories {
 
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.30")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.31")
     compileOnly("com.SirBlobman.combatlogx:CombatLogX-API:10.0.0.0-SNAPSHOT")
     compileOnly("io.papermc.paper:paper-api:1.17.1-R0.1-SNAPSHOT")
 }
